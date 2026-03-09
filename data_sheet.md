@@ -1,4 +1,4 @@
-BBO Capstone Dataset Datasheet
+**BBO Capstone Dataset Datasheet**
 Motivation
 
 This dataset was developed to facilitate practical learning and experimentation with Bayesian Black-Box Optimisation (BBO) as part of the capstone project. It allows students to apply surrogate-based optimisation methods to a variety of benchmark functions. The dataset supports several learning objectives, including:
