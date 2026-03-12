@@ -31,9 +31,6 @@ The strategy achieved distinct successes across different function landscapes:
 * **Exponential Growth:** **Function 5** was the star performer, growing from ~10.0 to **~52.0** by blindly following the neural network's gradient.
 * **Recovery:** **Function 7** crashed to 0.42 but was successfully recovered to **>1.0** using a "Backtracking" policy.
 * **Breakouts:** **Function 2** stagnated for 8 weeks before a "History Replay" strategy unlocked a new personal best of **0.69**.
-* **Visuals:**
-![Optimization Landscape Visualization](image.png)
-*(Note: This plot illustrates the complexity of the search space, specifically the ruggedness of Function 8 compared to the smoothness of Function 5.)*
 
 ## 📬 Contact
 * **Author:** Aditya Anggar
